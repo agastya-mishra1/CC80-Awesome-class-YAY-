@@ -1,0 +1,27 @@
+body{
+text-align: center;
+background-color: lightpink;
+}
+#Title{
+font-size: 50px;   
+}
+#button1{
+background-color: crimson; 
+color: white;
+height: 20px;
+width: 170px;   
+}
+#showPara1{
+font-size: 40px;
+color: black;    
+}
+#showPara2{
+font-size: 40px;
+color: black;    
+}
+#button2{
+background-color: crimson; 
+color: white;
+height: 20px;
+width: 170px;   
+    }
